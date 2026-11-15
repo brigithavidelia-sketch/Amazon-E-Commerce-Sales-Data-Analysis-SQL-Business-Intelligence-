@@ -44,6 +44,7 @@ This end-to-end data analytics project explores **128,975 e-commerce transaction
 │   ├── 02_monthly_sales_trend.png
 │   └── 03_category_pareto.png
 └── README.md
+```
 ---
 
 ## 🤝 Connect with Me
