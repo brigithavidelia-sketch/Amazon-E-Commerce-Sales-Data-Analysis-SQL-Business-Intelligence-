@@ -50,5 +50,5 @@ This end-to-end data analytics project explores **128,975 e-commerce transaction
 ## 🤝 Connect with Me
 If you have any questions about this analysis, feedback, or opportunities to collaborate on data analytics projects, feel free to reach out!
 
-- **LinkedIn:** [Brigitha Videlia](https://www.linkedin.com/in/githa-l-492a08405/)
+- **LinkedIn:** [Brigitha](https://www.linkedin.com/in/githa-l-492a08405/)
 - **Tableau Public:** [View Interactive Dashboard](https://public.tableau.com/views/AmazonE-CommerceSalesPerformanceDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
